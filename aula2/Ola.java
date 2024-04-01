@@ -1,4 +1,4 @@
-package Programacao_concorrente_distribuida.aula2;
+package aula2;
 
 public class Ola extends Thread {
 	public void run() {

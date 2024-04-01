@@ -1,4 +1,4 @@
-package Programacao_concorrente_distribuida.aula2;
+package aula2;
 
 public class Main {
 	public static void main (String[] args) throws InterruptedException {
