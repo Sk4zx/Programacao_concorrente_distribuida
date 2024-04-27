@@ -1,5 +1,14 @@
-package Trabalho_individual;
+public interface Funcionario {
+    void run();
 
-public class Funcionario {
-    
+    void receberSalario(double valor);
+
+    void investir(double valor);
+
+    double calcularSalario();
+
+    Conta getContaSalario();
+
+    Conta getContaInvestimento();
+
 }
